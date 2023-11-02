@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Internal CSS</title>
+        <style>
+            p {
+                color: blue;
+            }
+        </style>
+    </head>
+    <body>
+        <p>Example of Internal CSS</p>
+    </body>
+</html>
