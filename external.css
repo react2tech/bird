@@ -7,7 +7,10 @@
             }
         </style>
     </head>
-    <body>
-        <p>Example of Internal CSS</p>
-    </body>
+    h1 {
+        font-family: arial, sans-serif;
+        color:#FF0000
+        font-size: 14px;
+
+    }
 </html>
