@@ -1,16 +1,13 @@
+<!DOCTYPE Html>
 <html>
     <head>
         <title>Internal CSS</title>
-        <style>
+        <style type = text/css>
+        body {backgroung-color: blue; }
             p {
-                color: blue;
+                color: limegreen;
             }
         </style>
     </head>
-    h1 {
-        font-family: arial, sans-serif;
-        color:#FF0000
-        font-size: 14px;
-
     }
 </html>
