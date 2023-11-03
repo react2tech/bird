@@ -3,8 +3,12 @@
     <head>
         <title>Internal CSS</title>
         <style type = text/css>
-        body {backgroung-color: blue; }
-            p {
+        body {background-color: blue; }
+            h1 {
+                color:limegreen;
+
+            }
+             p {
                 font-family:arial, sans-serif;
                 color:red;
                 font-size: 14px;
