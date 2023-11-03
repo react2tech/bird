@@ -5,7 +5,9 @@
         <style type = text/css>
         body {background-color: blue; }
             h1 {
-                color:limegreen;
+                text-shadow: 3px 3px 3px #888888;
+                font-style:italic;
+                
 
             }
              p {
