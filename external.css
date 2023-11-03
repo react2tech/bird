@@ -5,9 +5,11 @@
         <style type = text/css>
         body {backgroung-color: blue; }
             p {
-                color: limegreen;
+                font-family:arial, sans-serif;
+                color:red;
+                font-size: 14px;
             }
         </style>
     </head>
-    }
+    
 </html>
